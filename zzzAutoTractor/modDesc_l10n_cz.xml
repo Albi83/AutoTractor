@@ -45,7 +45,7 @@
 		<text name="AUTO_TRACTOR_STEER_OFF"                text="Autom. řízení: ON" />
 		<text name="AUTO_TRACTOR_HEADLAND_ON"              text="Úvrať: OFF" />
 		<text name="AUTO_TRACTOR_HEADLAND_OFF"             text="Úvrať: ON" />
-		<text name="AUTO_TRACTOR_FRONT_PACKER_ON"          text="Front Packer: ON />
+		<text name="AUTO_TRACTOR_FRONT_PACKER_ON"          text="Front Packer: ON" />
 		<text name="AUTO_TRACTOR_FRONT_PACKER_OFF"         text="Front Packer: OFF" />		
 		<text name="AUTO_TRACTOR_COLLISION_ON"             text="Kontrola kolize: ON" />
 		<text name="AUTO_TRACTOR_COLLISION_OFF"            text="Kontrola kolize: OFF" />
